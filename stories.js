@@ -5,7 +5,7 @@ const DATA = [
     title:'The Silent Climber',
     sub:'Strength in the smallest steps',
     loc:'Rajbari, Bangladesh', season:'Summer',
-    img:'assets/PXL_20230821_092954258_1776340171013.jpg',
+    img:'PXL_20230821_092954258_1776340171013.jpg',
     story:`<p>সবুজ পাতার উপর দিয়ে একা হেঁটে যাচ্ছে ছোট্ট একটা পিঁপড়া।
 তার পৃথিবী আমাদের চোখে ক্ষুদ্র,
 কিন্তু তার কাছে এই পথটাই বিশাল এক যাত্রা।
@@ -26,7 +26,7 @@ const DATA = [
     title:'Whispers of the Wind',
     sub:'A fragile moment before everything lets go',
     loc:'Rajbari, Bangladesh', season:'Late Winter',
-    img:'assets/PXL_20240105_113433807.PORTRAIT_1776340171070.jpg',
+    img:'PXL_20240105_113433807.PORTRAIT_1776340171070.jpg',
     story:`<p>সূক্ষ্ম, নরম সাদা তুলোর মতো এই ফুলটা দাঁড়িয়ে আছে এক অদৃশ্য অপেক্ষায়।
 হালকা বাতাস এলেই তার প্রতিটি অংশ ছড়িয়ে যাবে অজানার পথে।
 এই ছোট্ট গঠনটার ভেতর লুকিয়ে আছে হাজারো সম্ভাবনা,
@@ -46,7 +46,7 @@ const DATA = [
     title:"Silent Anchor",
     sub:'A lone boatman pauses as giants rest behind him.',
     loc:'Chittagong, Bangladesh', season:'Winter',
-    img:'assets/Photo2_1776338153904.jpg',
+    img:'Photo2_1776338153904.jpg',
     story:`<p>He stands still, one hand resting on the worn wood of his boat.
 The river barely moves, holding its breath with him.
 Behind him, rows of massive ships sleep in silence.
@@ -67,7 +67,7 @@ The silence speaks louder than noise ever could.</p>`
     title:'Still Visitor',
     sub:'A tiny insect rests in a quiet green world',
     loc:'Rangpur, Bangladesh', season:'Monsoon',
-    img:'assets/Hm.Photo1_(16)_77ac39_1776340170933.jpg',
+    img:'Hm.Photo1_(16)_77ac39_1776340170933.jpg',
     story:`<p>On a single leaf, a small insect sits still.
 Its legs grip the surface gently.
 The leaf moves slightly with the wind.
@@ -88,7 +88,7 @@ In stillness, even the smallest life feels significant.</p>`
     title:'Tomato Bloom',
     sub:'The beginning of something simple yet essential',
     loc:'Rangpur, Bangladesh', season:'Winter',
-    img:'assets/PXL_20240105_112556053_1776340171044.jpg',
+    img:'PXL_20240105_112556053_1776340171044.jpg',
     story:`<p>Tiny yellow flowers bloom on a tomato plant.
 They are small, almost easy to ignore.
 But they hold the promise of something more.
@@ -109,7 +109,7 @@ Even the smallest bloom carries great meaning.</p>`
     title:'Secret Petal',
     sub:'Beauty thrives even where no one looks.',
     loc:'Rajbari, Bangladesh', season:'Early Summer',
-    img:'assets/PXL_20260321_124444527_1776340171089.jpg',
+    img:'PXL_20260321_124444527_1776340171089.jpg',
     story:`<p>Among dense leaves, something bright catches the eye.
 A small flower reveals itself between shadows.
 It is surrounded by chaos, yet remains untouched.
@@ -130,7 +130,7 @@ A quiet reminder that beauty does not need an audience.</p>`
     title:'Wild Bloom',
     sub:'A hidden flower whispers its quiet story.',
     loc:'Rangpur, Bangladesh', season:'Rainy',
-    img:'assets/Photo5_1776338154023.jpg',
+    img:'Photo5_1776338154023.jpg',
     story:`<p>Deep inside the jungle, a single flower blooms.
 No path leads to it, no footsteps disturb its ground.
 It grows quietly among tangled roots and wild leaves.
@@ -151,7 +151,7 @@ Hidden, yet perfect in every way.</p>`
     title:'Lost Beauty',
     sub:'A flower shines quietly in the wild unknown.',
     loc:'Rajbari, Bangladesh', season:'Early Summer',
-    img:'assets/PXL_20260321_122043556_1776340171117.jpg',
+    img:'PXL_20260321_122043556_1776340171117.jpg',
     story:`<p>Far from any path, a flower blooms alone.
 Its colors stand out against the dark green jungle.
 It feels like a piece of art in a wild frame.
@@ -172,7 +172,7 @@ Even the unseen holds extraordinary beauty.</p>`
     title:'Evening Game',
     sub:'Laughter and energy fill the fading light.',
     loc:'Kushtia, Bangladesh', season:'Autumn',
-    img:'assets/PXL_20231025_164423266_1776340171141.jpg',
+    img:'PXL_20231025_164423266_1776340171141.jpg',
     story:`<p>The sun begins to set over the open field.
 A group of boys gather with a cricket bat.
 Their voices echo with excitement and joy.
