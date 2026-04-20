@@ -16,6 +16,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+   /* PWA registration */
+   if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register('/portfolio/sw.js')
+      .then((reg) => console.log('[SW] Registered:', reg.scope))
+      .catch((err) => console.warn('[SW] Registration failed:', err));
+  });
+}
+
   /* ── Custom Cursor ───────────────────────── */
   const dot  = document.querySelector('.cursor-dot');
   const ring = document.querySelector('.cursor-ring');
