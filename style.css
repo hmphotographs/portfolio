@@ -22,6 +22,7 @@
   --amber: #f59e0b;
   --cyan: #06b6d4;
   --pink: #ec4899;
+  
 }
 
 /* ── Reset ─────────────────────────────────── */
@@ -309,13 +310,14 @@ textarea, input, select { font-family: inherit; }
   width: 64px; height: 64px;
   border-radius: 50%;
   margin-top: 0px;
+  filter: saturate(0);
 }
 .mobile-menu-logo span {
   font-family: var(--font-display);
   font-size: 10px;
   letter-spacing: 0.35em;
   text-transform: uppercase;
-  color: var(--gray-500);
+  color: #7f7f7f;
 }
 .mobile-nav-link {
   display: block;
@@ -460,7 +462,7 @@ textarea, input, select { font-family: inherit; }
   letter-spacing: 0.4em;
   text-transform: uppercase;
   font-family: var(--font-display);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(18px);
   margin-bottom: 40px;
 }
 .hero-badge svg { width: 10px; height: 10px; }
@@ -1692,6 +1694,17 @@ footer::before {
 /* ══════════════════════════════════════════════
    CONTACT PAGE
 ══════════════════════════════════════════════ */
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  box-shadow: 0 0 0px 1000px transparent inset !important;
+
+  -webkit-text-fill-color: var(--gray) !important; /* তোমার text color অনুযায়ী change করো */
+
+  transition: background-color 9999s ease-in-out 0s;
+}
+
 .contact-page {
   padding-top: 112px;
   padding-bottom: 80px;
@@ -1868,11 +1881,12 @@ footer::before {
   border: 1px solid rgba(255,255,255,0.08);
   border-radius: 12px;
   padding: 12px 16px;
-  color: var(--white);
+  color: #7a00ff;
   font-size: 0.875rem;
   font-family: var(--font-sans);
   outline: none;
   transition: border-color 0.3s, background 0.3s;
+  caret-color: red;
 }
 .form-input::placeholder, .form-textarea::placeholder { color: var(--gray-600); }
 .form-input:focus, .form-textarea:focus {
