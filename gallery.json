@@ -166,5 +166,13 @@
     "span": "",
     "new": false,
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Kushtia, Dhaka" }
+  },
+  {
+    "title": "Tiny Traveler",
+    "category": "Macro",
+    "src": "1779724884352.jpg",
+    "span": "",
+    "new": true,
+    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Kushtia, Dhaka" }
   }
 ]
