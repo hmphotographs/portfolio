@@ -50,7 +50,7 @@
   {
     "title": "Dandelion Dream",
     "category": "Floral",
-    "src": "Photo3_1776338153952.jpg",
+    "src": "cover-3.jpg",
     "span": "",
     "new": false,
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
@@ -144,18 +144,18 @@
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
   },
   {
-    "title": "Golden Hour",
-    "category": "Nature",
-    "src": "Photo4_1776338153984.jpg",
-    "span": "span-2c span-2r",
-    "new": false,
-    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
-  },
-  {
     "title": "Green Jewel Bug",
     "category": "Nature",
     "src": "Photo-1111.png",
     "span": "",
+    "new": false,
+    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
+  },
+  {
+    "title": "Golden Hour",
+    "category": "Nature",
+    "src": "Photo4_1776338153984.jpg",
+    "span": "span-2c span-2r",
     "new": false,
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
   },
