@@ -146,7 +146,7 @@
   {
     "title": "Green Jewel Bug",
     "category": "Nature",
-    "src": "Photo-1111.png",
+    "src": "https://raw.githubusercontent.com/hmphotographs/portfolio/main/photo-1111.png",
     "span": "",
     "new": false,
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Dhaka" }
