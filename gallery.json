@@ -174,5 +174,29 @@
     "span": "",
     "new": true,
     "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Kushtia, Dhaka" }
+  },
+  {
+    "title": "Blush of the Wild",
+    "category": "Flower",
+    "src": "1000410514.png",
+    "span": "",
+    "new": true,
+    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rajbari, Bangladesh" }
+  },
+  {
+    "title": "Morning's Last Tear",
+    "category": " Macro",
+    "src": "1000410657.png",
+    "span": "",
+    "new": true,
+    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rangpur, Bangladesh" }
+  },
+  {
+    "title": "The Dew Express",
+    "category": "Macro",
+    "src": "1000410518.png",
+    "span": "",
+    "new": true,
+    "exif": { "aperture": "", "shutter": "", "iso": "", "location": "Rangpur, Bangladesh" }
   }
 ]
